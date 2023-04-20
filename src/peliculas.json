@@ -1,0 +1,55 @@
+
+[
+{
+"titulo": "Oblivion (2012)",
+"calificacion": "8.1",
+"director": "Joss Whendon",
+"actores": "Robert Downey Jr.",
+"fecha": "1 may 2015",
+"duracion": " 2h 21min",
+"img": "images/uploads/mv1.jpg"
+    
+  },
+  {
+"titulo": "INTO THE WILD",
+"calificacion": "7.1",
+"director": "Alan Taylor",
+"actores": "Chis Hemsworth.",
+"fecha": "1 may 2015",
+"duracion": " 2h 21min",
+"img": "images/uploads/mv2.jpg"
+    
+  },
+  {
+    
+      "titulo": "2049",
+      "calificacion": "8.1",
+      "director": "Joss Whendon",
+      "actores": "Robert Downey Jr.",
+      "fecha": "1 may 2015",
+      "duracion": " 2h 21min",
+      "img": "images/uploads/mv3.jpg"
+          
+        },
+        {
+          "titulo": "Matrix",
+          "calificacion": "8.1",
+          "director": "Joss Whendon",
+          "actores": "Robert Downey Jr.",
+          "fecha": "1 may 2015",
+          "duracion": " 2h 21min",
+          "img": "images/uploads/mv4.jpg"
+              
+            },
+            {
+              "titulo": "Source (2012)",
+              "calificacion": "8.1",
+              "director": "Joss Whendon",
+              "actores": "Robert Downey Jr.",
+              "fecha": "1 may 2015",
+              "duracion": " 2h 21min",
+              "img": "images/uploads/mv5.jpg"
+                  
+                }
+   ]
+   
